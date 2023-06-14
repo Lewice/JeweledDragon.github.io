@@ -127,7 +127,7 @@
     }
 
     var total = parseFloat(document.getElementById('total').textContent);
-    var discordWebhookURL = 'https://discord.com/api/webhooks/1115717872002551860/QeP0olu8qsHp7pE0XxHqB7dTK2c9i7hqA1vX4LB8ogLAw14NBj08zLN--8K9hvHeB0hO'; // Replace with your Discord webhook URL
+    var discordWebhookURL = 'https://discord.com/api/webhooks/1118343660623380580/Uhs34Lq96Q3zW5AoKvkOXKLxdqRZJiu1U-B85KW_dR8Sq5nftRKhQNr9BjrgFa75Nbza'; // Replace with your Discord webhook URL
 
     var xhr = new XMLHttpRequest();
     xhr.open('POST', discordWebhookURL, true);
