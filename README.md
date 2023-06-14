@@ -1,4 +1,3 @@
-
 <html>
 <head>
   <title>Gem Calculator</title>
