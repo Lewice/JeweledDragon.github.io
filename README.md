@@ -77,11 +77,7 @@
       height: 50px; /* Adjust the desired height */
       margin-left: 10px; /* Add margin as per your preference */
     }
-	.logo-image {
-		width: 200px; /* Adjust the desired width */
-		height: 200px; /* Adjust the desired height */
-		filter: brightness(50%); /* Adjust the brightness percentage as needed */
-	}
+	
     {
     button {
       margin-top: 20px;
@@ -190,7 +186,7 @@
 </head>
 <body>
 <body style="background-color:Gold;">
-	<img src="BackGround1.png" alt="Company Logo!" class="logo-image">
+	<img src="BackGround1.png" alt="Company Logo!">
   <h1>Gem Calculator</h1>
   
   
