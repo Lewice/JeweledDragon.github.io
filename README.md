@@ -330,6 +330,34 @@
     <label for="CatTuccino">Diamond - Tier 3 (60-100%)</label>
     <input type="number" value="1" min="1">
   </div>
+
+  <h3> Gold </h3>
+  
+   <div>
+    <input type="checkbox" id="MatchaLatte" value="250">
+    <label for="MatchaLatte">Gold Ore</label>
+    <input type="number" value="1" min="1">
+  </div>
+  
+  <div>
+    <input type="checkbox" id="PumpkinSpiceLate " value="225">
+    <label for="PumpkinSpiceLate">Gold Bar</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+  <h3> Silver </h3>
+  
+   <div>
+    <input type="checkbox" id="MatchaLatte" value="100">
+    <label for="MatchaLatte">Silver Ore</label>
+    <input type="number" value="1" min="1">
+  </div>
+  
+  <div>
+    <input type="checkbox" id="PumpkinSpiceLate " value="125">
+    <label for="PumpkinSpiceLate">Silver Bar</label>
+    <input type="number" value="1" min="1">
+  </div>
   
   <div style="margin-bottom: 100px;"></div>
 
