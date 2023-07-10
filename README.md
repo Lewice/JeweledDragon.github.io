@@ -334,13 +334,13 @@
   <h3> Gold </h3>
   
    <div>
-    <input type="checkbox" id="MatchaLatte" value="225">
+    <input type="checkbox" id="MatchaLatte" value="150">
     <label for="MatchaLatte">Gold Ore</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="PumpkinSpiceLate " value="250">
+    <input type="checkbox" id="PumpkinSpiceLate " value="200">
     <label for="PumpkinSpiceLate">Gold Bar</label>
     <input type="number" value="1" min="1">
   </div>
@@ -348,13 +348,13 @@
   <h3> Silver </h3>
   
    <div>
-    <input type="checkbox" id="MatchaLatte" value="100">
+    <input type="checkbox" id="MatchaLatte" value="75">
     <label for="MatchaLatte">Silver Ore</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="PumpkinSpiceLate " value="125">
+    <input type="checkbox" id="PumpkinSpiceLate " value="100">
     <label for="PumpkinSpiceLate">Silver Bar</label>
     <input type="number" value="1" min="1">
   </div>
