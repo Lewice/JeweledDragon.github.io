@@ -30,7 +30,7 @@
 	
 	.reset-button {
       width: 150px; /* Adjust the desired width */
-      height: 30px; /* Adjust the desired height */
+      height: 40px; /* Adjust the desired height */
     }
     
     h1 {
