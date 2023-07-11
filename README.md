@@ -122,7 +122,7 @@
 
     // Check if the name field is empty
     if (name.trim() === '') {
-      alert('Please enter a name.');
+      alert('I don't know who this is, so I will keep the commission.');
       return;
     }
 
