@@ -20,7 +20,7 @@
 	
 	 .calculate-button {
       width: 150px; /* Adjust the desired width */
-      height: 50px; /* Adjust the desired height */
+      height: 30px; /* Adjust the desired height */
     }
 	
 	.submit-button {
@@ -30,7 +30,7 @@
 	
 	.reset-button {
       width: 150px; /* Adjust the desired width */
-      height: 40px; /* Adjust the desired height */
+      height: 30px; /* Adjust the desired height */
     }
     
     h1 {
