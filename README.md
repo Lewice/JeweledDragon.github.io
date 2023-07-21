@@ -232,20 +232,6 @@
     <input type="number" value="1" min="1">
   </div>
   
-  <h3> TURBO </h3>
-  
-  <div>
-    <input type="checkbox" id="cat30" value="12000">
-    <label for="cat30">D - A Class Vehicles</label>
-    <input type="number" value="1" min="1">
-  </div>
-  
-   <div>
-    <input type="checkbox" id="cat50" value="15000">
-    <label for="cat40">S Class Vehicles    </label>
-    <input type="number" value="1" min="1">
-  </div>
-  
   <h3> TRANSMISSION </h3>
   
   <div>
@@ -283,6 +269,20 @@
   <div>
     <input type="checkbox" id="choccypanckaes" value="8000">
     <label for="choccypanckaes">Brakes Level 3</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+    <h3> TURBO </h3>
+  
+  <div>
+    <input type="checkbox" id="cat30" value="12000">
+    <label for="cat30">D - A Class Vehicles</label>
+    <input type="number" value="1" min="1">
+  </div>
+  
+   <div>
+    <input type="checkbox" id="cat50" value="15000">
+    <label for="cat40">S Class Vehicles    </label>
     <input type="number" value="1" min="1">
   </div>
   
