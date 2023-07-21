@@ -242,7 +242,7 @@
   
    <div>
     <input type="checkbox" id="cat50" value="15000">
-    <label for="cat40">S Class Vehicles</label>
+    <label for="cat40">S Class Vehicles    </label>
     <input type="number" value="1" min="1">
   </div>
   
