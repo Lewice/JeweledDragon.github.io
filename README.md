@@ -192,55 +192,43 @@
   
   
   
-  <h3> Opal </h3>
+  <h3> ENGINE </h3>
   
   <div>
-    <input type="checkbox" id="ColinChoice" value="45">
-    <label for="ColinChoice">Opal - Tier 1 (0-30%)</label>
+    <input type="checkbox" id="ColinChoice" value="1000">
+    <label for="ColinChoice">Engine Level 1</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="JudysChoice" value="120">
-    <label for="JudysChoice">Opal - Tier 2 (30-60%)</label>
+    <input type="checkbox" id="JudysChoice" value="3000">
+    <label for="JudysChoice">Engine Level 2</label>
     <input type="number" value="1" min="1">
   </div>
 
 <div>
-    <input type="checkbox" id="Velmachoice" value="225">
-    <label for="Velmachoice">Opal - Tier 3 (60-100%)</label>
+    <input type="checkbox" id="Velmachoice" value="8000">
+    <label for="Velmachoice">Engine Level 3</label>
+    <input type="number" value="1" min="1">
+  </div>
+  
+  <h3> SUSPENSION </h3>
+  
+  <div>
+    <input type="checkbox" id="Velmachoice" value="100">
+    <label for="Velmachoice">Suspension Level 1</label>
+    <input type="number" value="1" min="1">
+  </div>
+  
+  <div>
+    <input type="checkbox" id="Velmachoice" value="3000">
+    <label for="Velmachoice">Suspension Level 2</label>
     <input type="number" value="1" min="1">
   </div>
 
-<div>
-    <input type="checkbox" id="Velmachoice" value="225">
-    <label for="Velmachoice">Opal - Tier 3 (60-100%)</label>
-    <input type="number" value="1" min="1">
-  </div>
-  
-  <div>
-    <input type="checkbox" id="Velmachoice" value="225">
-    <label for="Velmachoice">Opal - Tier 3 (60-100%)</label>
-    <input type="number" value="1" min="1">
-  </div>
-  
-  <h3> Citrine </h3>
-  
-  <div>
-    <input type="checkbox" id="Davechoice" value="180">
-    <label for="Davechoice">Citrine - Tier 1 (0-30%)</label>
-    <input type="number" value="1" min="1">
-  </div>
-  
- <div>
-    <input type="checkbox" id="cat10" value="360">
-    <label for="cat10">Citrine - Tier 2 (30-60%)</label>
-    <input type="number" value="1" min="1">
-  </div>
-  
-  <div>
-    <input type="checkbox" id="cat20" value="720">
-    <label for="cat20">Citrine - Tier 3 (60-100%)</label>
+    <div>
+    <input type="checkbox" id="Velmachoice" value="5000">
+    <label for="Velmachoice">Suspension Level 3</label>
     <input type="number" value="1" min="1">
   </div>
   
