@@ -134,7 +134,7 @@
     xhr.setRequestHeader('Content-Type', 'application/json');
 
     var message = {
-      content: 'Gem Receipt!',
+      content: 'Upgrade Receipt!',
       embeds: [{
         title: 'Order Details',
         fields: [
@@ -188,7 +188,7 @@
 <body style="background-color:White;">
 <body style="text-color:Red;">
 	<img src="BackGround1.png" alt="Company Logo!">
-  <h1>Gem Calculator</h1>
+  <h1>Benny's Original Performance Upgrade Sheet</h1>
   
   
   
