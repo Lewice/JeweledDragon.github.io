@@ -1,7 +1,7 @@
 
 <html>
 <head>
-  <title>Gem Calculator</title>
+  <title>Benny's Original</title>
     <style>
     body {
       display: flex;
