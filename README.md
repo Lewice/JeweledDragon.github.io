@@ -232,131 +232,57 @@
     <input type="number" value="1" min="1">
   </div>
   
-  <h3> Amethyst </h3>
+  <h3> TURBO </h3>
   
   <div>
-    <input type="checkbox" id="cat30" value="180">
-    <label for="cat30">Amethyst - Tier 1 (0-30%)</label>
+    <input type="checkbox" id="cat30" value="12000">
+    <label for="cat30">D - A Class Vehicles</label>
     <input type="number" value="1" min="1">
   </div>
   
    <div>
-    <input type="checkbox" id="cat50" value="360">
-    <label for="cat40">Amethyst - Tier 2 (30-60%)</label>
+    <input type="checkbox" id="cat50" value="15000">
+    <label for="cat40">S Class Vehicles</label>
+    <input type="number" value="1" min="1">
+  </div>
+  
+  <h3> TRANSMISSION </h3>
+  
+  <div>
+    <input type="checkbox" id="Salad" value="1000">
+    <label for="Salad">Transmission Level 1</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="cat100" value="720">
-    <label for="cat50">Amethyst - Tier 3 (60-100%)</label>
-    <input type="number" value="1" min="1">
-  </div>
-  
-  <h3> Sapphire </h3>
-  
-  <div>
-    <input type="checkbox" id="Salad" value="270">
-    <label for="Salad">Sapphire - Tier 1 (0-30%)</label>
+    <input type="checkbox" id="FruitExplosion" value="4000">
+    <label for="FruitExplosion">Transmission Level 2</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="FruitExplosion" value="540">
-    <label for="FruitExplosion">Sapphire - Tier 2 (30-60%)</label>
+    <input type="checkbox" id="TurkeySammie" value="7000">
+    <label for="TurkeySammie">Transmission Level 3</label>
     <input type="number" value="1" min="1">
   </div>
   
-  <div>
-    <input type="checkbox" id="TurkeySammie" value="1080">
-    <label for="TurkeySammie">Sapphire - Tier 3 (60-100%)</label>
-    <input type="number" value="1" min="1">
-  </div>
-  
-  <h3> Ruby </h3>
+  <h3> BRAKES </h3>
   
    <div>
-    <input type="checkbox" id="BeefSammie" value="270">
-    <label for="BeefSammie">Ruby - Tier 1 (0-30%)</label>
+    <input type="checkbox" id="BeefSammie" value="1000">
+    <label for="BeefSammie">Brakes Level 1</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="BLTSammie" value="540">
-    <label for="BLTSammie">Ruby - Tier 2 (30-60%)</label>
+    <input type="checkbox" id="BLTSammie" value="5000">
+    <label for="BLTSammie">Brakes Level 2</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="choccypanckaes" value="1080">
-    <label for="choccypanckaes">Ruby - Tier 3 (60-100%)</label>
-    <input type="number" value="1" min="1">
-  </div>
-  
-  <h3> Emerald </h3>
-  
-  <div>
-    <input type="checkbox" id="FrozenYoghurt" value="340">
-    <label for="FrozenYoghurt">Emerald - Tier 1 (0-30%)</label>
-    <input type="number" value="1" min="1">
-  </div>
-  
-  <div>
-    <input type="checkbox" id="FreshLemonade" value="680">
-    <label for="FreshLemonade">Emerald - Tier 2 (30-60%)</label>
-    <input type="number" value="1" min="1">
-  </div>
-  
-  <div>
-    <input type="checkbox" id="IcedCoffee" value="1350">
-    <label for="IcedCoffee">Emerald - Tier 3 (60-100%)</label>
-    <input type="number" value="1" min="1">
-  </div>
-  
-  <h3> Diamond </h3>
-  
-   <div>
-    <input type="checkbox" id="MatchaLatte" value="350">
-    <label for="MatchaLatte">Diamond - Tier 1 (0-30%)</label>
-    <input type="number" value="1" min="1">
-  </div>
-  
-  <div>
-    <input type="checkbox" id="PumpkinSpiceLate " value="700">
-    <label for="PumpkinSpiceLate">Diamond - Tier 2 (30-60%)</label>
-    <input type="number" value="1" min="1">
-  </div>
-  
-  <div>
-    <input type="checkbox" id="CatTuccino" value="1400">
-    <label for="CatTuccino">Diamond - Tier 3 (60-100%)</label>
-    <input type="number" value="1" min="1">
-  </div>
-
-  <h3> Gold </h3>
-  
-   <div>
-    <input type="checkbox" id="MatchaLatte" value="150">
-    <label for="MatchaLatte">Gold Ore</label>
-    <input type="number" value="1" min="1">
-  </div>
-  
-  <div>
-    <input type="checkbox" id="PumpkinSpiceLate " value="200">
-    <label for="PumpkinSpiceLate">Gold Bar</label>
-    <input type="number" value="1" min="1">
-  </div>
-
-  <h3> Silver </h3>
-  
-   <div>
-    <input type="checkbox" id="MatchaLatte" value="75">
-    <label for="MatchaLatte">Silver Ore</label>
-    <input type="number" value="1" min="1">
-  </div>
-  
-  <div>
-    <input type="checkbox" id="PumpkinSpiceLate " value="100">
-    <label for="PumpkinSpiceLate">Silver Bar</label>
+    <input type="checkbox" id="choccypanckaes" value="8000">
+    <label for="choccypanckaes">Brakes Level 3</label>
     <input type="number" value="1" min="1">
   </div>
   
