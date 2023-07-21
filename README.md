@@ -282,7 +282,21 @@
   
    <div>
     <input type="checkbox" id="cat50" value="15000">
-    <label for="cat40">S Class Vehicles    </label>
+    <label for="cat40">S Class Vehicles</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+    <h3> REPAIR </h3>
+  
+  <div>
+    <input type="checkbox" id="cat30" value="1400">
+    <label for="cat30">D - A Class Vehicles</label>
+    <input type="number" value="1" min="1">
+  </div>
+  
+   <div>
+    <input type="checkbox" id="cat50" value="2400">
+    <label for="cat40">S Class Vehicles</label>
     <input type="number" value="1" min="1">
   </div>
   
