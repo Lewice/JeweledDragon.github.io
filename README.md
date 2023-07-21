@@ -205,6 +205,18 @@
     <label for="JudysChoice">Opal - Tier 2 (30-60%)</label>
     <input type="number" value="1" min="1">
   </div>
+
+<div>
+    <input type="checkbox" id="Velmachoice" value="225">
+    <label for="Velmachoice">Opal - Tier 3 (60-100%)</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+<div>
+    <input type="checkbox" id="Velmachoice" value="225">
+    <label for="Velmachoice">Opal - Tier 3 (60-100%)</label>
+    <input type="number" value="1" min="1">
+  </div>
   
   <div>
     <input type="checkbox" id="Velmachoice" value="225">
